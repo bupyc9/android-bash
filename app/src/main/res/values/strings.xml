@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bash.im</string>
+    <string name="network_error">При подключении к сети произошла ошибка.</string>
 </resources>
